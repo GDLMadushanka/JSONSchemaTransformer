@@ -1,5 +1,5 @@
-# JSON Schema Transformer
-Generate example payloads for a given JSON schema.
+# JavaScript JSON Schema to JSON Transformer
+## Generate example payloads for a given JSON schema.
 
 There are a lot of libraries out there to achieve the same requirement.
 But they require us to define a lot of meta information in the schema.
@@ -30,3 +30,5 @@ function transform(){
 
 Feel free to report issues and do the necessary improvements.
 
+## Blog
+https://lahirumadushankablog.wordpress.com/2019/01/27/javascript-json-schema-to-json-transformer/
